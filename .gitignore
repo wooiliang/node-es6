@@ -38,3 +38,6 @@ jspm_packages
 
 # dotenv
 .env
+
+# build dir
+build
