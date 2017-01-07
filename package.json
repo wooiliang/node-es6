@@ -18,9 +18,11 @@
     "url": "https://github.com/wooiliang/node-es6/issues"
   },
   "homepage": "https://github.com/wooiliang/node-es6#readme",
-  "devDependencies": {
+  "dependencies": {
     "babel-cli": "^6.18.0",
-    "babel-preset-latest": "^6.16.0",
+    "babel-preset-latest": "^6.16.0"
+  },
+  "devDependencies": {
     "dotenv": "^2.0.0",
     "nodemon": "^1.11.0"
   }
